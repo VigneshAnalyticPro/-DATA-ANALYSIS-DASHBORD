@@ -5,6 +5,7 @@ This project aims to provide a clear and comprehensive view of Indian personal f
 -Visualizes income distribution and demographics.
 -Highlights spending trends across various expense categories.
 -Identifies potential areas for savings to encourage better financial planning
+
 #Scope:
 The project will focus on:
 -Analyzing income and expense patterns across different demographics.
