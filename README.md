@@ -12,4 +12,4 @@ The project will focus on:
 -Exploring disposable income and savings behavior.
 -Providing actionable insights through interactive visuals.
 
-
+https://github.com/VigneshAnalyticPro/-DATA-ANALYSIS-DASHBORD/blob/main/Screenshot%202025-01-22%20110118.png
